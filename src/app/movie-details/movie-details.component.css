@@ -1,0 +1,19 @@
+.centerAlign{
+    text-align: center;
+}
+
+.cursorpointer{
+    cursor: pointer;
+}
+
+.tableBorder{
+    border-style: solid;
+    border-color: white;
+}
+
+.pageWidth{
+max-width: fit-content;
+}
+
+
+

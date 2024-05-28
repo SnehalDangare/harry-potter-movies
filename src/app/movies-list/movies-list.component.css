@@ -1,0 +1,25 @@
+.spanMargin5 {
+    margin: 5px
+}
+
+input {
+    margin: 0;
+}
+
+.filterSpace {
+    
+    justify-content: start;
+    padding-bottom: 5px;
+
+}
+
+.movieDetails {
+    display: flex;
+    justify-content: space-between;
+}
+
+.movieBorder {
+    max-width: fit-content;
+    border-style: solid;
+    border-color: white;
+}
